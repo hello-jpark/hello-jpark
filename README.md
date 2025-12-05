@@ -2,6 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jpark-in)
 [![Email Badge](https://img.shields.io/badge/Email-Me-red)](mailto:johnny.park@uwaterloo.ca)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-purple)](https://www.hello-jpark.com/#home)
 [![GitHub Badge](https://img.shields.io/github/followers/hello-jpark?label=Follow&style=social)](https://github.com/hello-jpark)
 
 ---
